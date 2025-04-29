@@ -11,7 +11,7 @@
 # ejercicio 13
 - ![image](https://github.com/user-attachments/assets/c8a3dbc5-49b1-42ef-82aa-5c41e8231ef5) ![image](https://github.com/user-attachments/assets/d70b5742-e41e-4f94-8206-1183597f29d0)
 
-# ejercicip 14
+# ejercicio 14
 - ![image](https://github.com/user-attachments/assets/2908586d-f621-4ee6-8efa-b60d22ce2700) ![image](https://github.com/user-attachments/assets/cf0ef3fc-e19c-4ebc-a13e-1c9b0ae80505)
 
 # ejercicio 15
